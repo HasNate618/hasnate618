@@ -32,9 +32,9 @@
 <tr>
 <td width="50%">
 
-![Auralis](./images/auralis_card.png)
+<img src="./images/auralis_card.png" width="100%">
 
-#### [Auralis](https://github.com/rickytang666/auralis)
+### [Auralis](https://github.com/rickytang666/auralis)
 A virtual 3D healthcare assistant combining emotion detection and natural voice interaction.
 
 **Tech:** `3D Animation` `AI` `TTS/SST`
@@ -44,9 +44,9 @@ A virtual 3D healthcare assistant combining emotion detection and natural voice 
 </td>
 <td width="50%">
 
-![Lumen](./images/lumen_card.png)
+<img src="./images/lumen_card.png" width="100%">
 
-#### [Lumen](https://github.com/Dawgsrlife/lumen)
+### [Lumen](https://github.com/Dawgsrlife/lumen)
 A calming companion that listens, understands, and responds with personalized mini-games.
 
 **Tech:** `Game Dev` `Unity` `AI Integration`
@@ -58,9 +58,9 @@ A calming companion that listens, understands, and responds with personalized mi
 <tr>
 <td width="50%">
 
-![Eyecandy](./images/eyecandy_card.jpg)
+<img src="./images/eyecandy_card.jpg" width="100%">
 
-#### [Eyecandy](https://github.com/Duck-luv-pie/eyecandy)
+### [Eyecandy](https://github.com/Duck-luv-pie/eyecandy)
 An AR shopping experience that turns any product photo into a virtual try-on.
 
 **Tech:** `AR Glasses` `Computer Vision`
@@ -70,9 +70,9 @@ An AR shopping experience that turns any product photo into a virtual try-on.
 </td>
 <td width="50%">
 
-![Careerly](./images/careerly_card.jpg)
+<img src="./images/careerly_card.jpg" width="100%">
 
-#### [Careerly](https://github.com/she11fish/careerly)
+### [Careerly](https://github.com/she11fish/careerly)
 Making career exploration fun and inclusive through an AI-powered virtual job fair.
 
 **Tech:** `Game Dev` `Unity` `Cohere API`
