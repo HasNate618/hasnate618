@@ -32,6 +32,8 @@
 <tr>
 <td width="50%">
 
+![Auralis](./images/auralis_card.png)
+
 #### [Auralis](https://github.com/rickytang666/auralis)
 A virtual 3D healthcare assistant combining emotion detection and natural voice interaction.
 
@@ -41,6 +43,8 @@ A virtual 3D healthcare assistant combining emotion detection and natural voice 
 
 </td>
 <td width="50%">
+
+![Lumen](./images/lumen_card.png)
 
 #### [Lumen](https://github.com/Dawgsrlife/lumen)
 A calming companion that listens, understands, and responds with personalized mini-games.
@@ -54,6 +58,8 @@ A calming companion that listens, understands, and responds with personalized mi
 <tr>
 <td width="50%">
 
+![Eyecandy](./images/eyecandy_card.jpg)
+
 #### [Eyecandy](https://github.com/Duck-luv-pie/eyecandy)
 An AR shopping experience that turns any product photo into a virtual try-on.
 
@@ -63,6 +69,8 @@ An AR shopping experience that turns any product photo into a virtual try-on.
 
 </td>
 <td width="50%">
+
+![Careerly](./images/careerly_card.jpg)
 
 #### [Careerly](https://github.com/she11fish/careerly)
 Making career exploration fun and inclusive through an AI-powered virtual job fair.
