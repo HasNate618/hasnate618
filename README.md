@@ -22,29 +22,58 @@
 
 **Software Engineering** student at **Western University** specializing in game development, Android apps, and embedded systems. I build immersive VR games, intuitive mobile apps, and innovative hardware prototypes that merge software with physical interaction.
 
-### Core Skills
-![Full-Stack](https://img.shields.io/badge/Full--Stack-30ff7b?style=flat-square&labelColor=0D1117)
-![Game Dev](https://img.shields.io/badge/Game%20Dev-30ff7b?style=flat-square&labelColor=0D1117)
-![VR/AR](https://img.shields.io/badge/VR%2FAR-30ff7b?style=flat-square&labelColor=0D1117)
-![Android](https://img.shields.io/badge/Android-30ff7b?style=flat-square&labelColor=0D1117)
-![AI/ML](https://img.shields.io/badge/AI%2FML-30ff7b?style=flat-square&labelColor=0D1117)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-30ff7b?style=flat-square&labelColor=0D1117)
 
 ---
 
-## 🏆 Achievements & Highlights
 
-**Multiple Hackathon Winner** • **Published Apps on [Google Play](https://play.google.com/store/apps/dev?id=7348534079800307995)** • **Hardware & Software Integration**
+## 🥇 Hackathon Winning Projects
 
-### 🥇 Hackathon Winning Projects
+<table>
+<tr>
+<td width="50%">
 
-| Project | Description |
-|---------|-------------|
-|**[Auralis](https://github.com/rickytang666/auralis)** | 3D healthcare assistant with emotion detection
-|**[Lumen](https://github.com/Dawgsrlife/lumen)** | AI companion with personalized mini-games
-|**[Eyecandy](https://github.com/Duck-luv-pie/eyecandy)** | AR virtual try-on shopping experience
-|**[Careerly](https://github.com/she11fish/careerly)** |Virtual interactive career fair
-|**[Street Cleaner](https://play.google.com/store/apps/details?id=com.NathanEspejo.StreetCleaner)** | Educational recycling game
+#### [Auralis](https://github.com/rickytang666/auralis)
+A virtual 3D healthcare assistant combining emotion detection and natural voice interaction.
+
+**Tech:** `3D Animation` `AI` `TTS/SST`
+
+🔗 [Live Demo](https://stop-googling-symptoms.tech) | [Devpost](https://devpost.com/software/docai-evq74t)
+
+</td>
+<td width="50%">
+
+#### [Lumen](https://github.com/Dawgsrlife/lumen)
+A calming companion that listens, understands, and responds with personalized mini-games.
+
+**Tech:** `Game Dev` `Unity` `AI Integration`
+
+🔗 [Live Demo](https://llumen.netlify.app/) | [Devpost](https://devpost.com/software/lumen-qsgcn4)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### [Eyecandy](https://github.com/Duck-luv-pie/eyecandy)
+An AR shopping experience that turns any product photo into a virtual try-on.
+
+**Tech:** `AR Glasses` `Computer Vision`
+
+🔗 [Devpost](https://devpost.com/software/eye-candy)
+
+</td>
+<td width="50%">
+
+#### [Careerly](https://github.com/she11fish/careerly)
+Making career exploration fun and inclusive through an AI-powered virtual job fair.
+
+**Tech:** `Game Dev` `Unity` `Cohere API`
+
+🔗 [Devpost](https://devpost.com/software/career-fair-xz0f67)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -58,7 +87,6 @@
 
 </div>
 
----
 
 <div align="center">
 
