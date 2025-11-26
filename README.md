@@ -8,10 +8,12 @@
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-nathanespejo.tech-30ff7b?style=for-the-badge&labelColor=1a1a1a)](https://nathanespejo.tech)
-[![Email](https://img.shields.io/badge/Email-nate.e.espejo%40gmail.com-30ff7b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:nate.e.espejo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathan%20Espejo-30ff7b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://linkedin.com/in/nathan-espejo)
-[![Devpost](https://img.shields.io/badge/Devpost-nate--e--espejo-30ff7b?style=for-the-badge&logo=devpost&logoColor=white&labelColor=1a1a1a)](https://devpost.com/nate-e-espejo)
+
+[![Portfolio](https://img.shields.io/badge/View%20my%20Portfolio!-nathanespejo.tech-30ff7b?style=for-the-badge&labelColor=1a1a1a)](https://nathanespejo.tech)
+
+[![Email](https://img.shields.io/badge/Email-nate.e.espejo%40gmail.com-30ff7b?style=flat&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:nate.e.espejo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nathan--espejo-30ff7b?style=flat&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://linkedin.com/in/nathan-espejo)
+[![Devpost](https://img.shields.io/badge/Devpost-nate--e--espejo-30ff7b?style=flat&logo=devpost&logoColor=white&labelColor=1a1a1a)](https://devpost.com/nate-e-espejo)
 
 
 </div>
