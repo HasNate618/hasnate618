@@ -24,17 +24,7 @@
 
 <div align="center">
 
-![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasNate618&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasNate618&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasNate618&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)
-
-</div>
-
-
-<div align="center">
-
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hasnate618.hasnate618&left_color=00FFFF&right_color=1a1a1a&left_text=Profile%20Views)](https://github.com/HasNate618)
 
