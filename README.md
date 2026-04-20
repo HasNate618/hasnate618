@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nathan Espejo
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=30ff7b&background=0D1117&center=true&vCenter=true&width=435&lines=AI+Systems+Builder;Automation+Engineer;Linux+%2B+Servers;Hardware+%2B+CAD;Unity+3D+%2B+XR" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=30ff7b&background=0D111700&center=true&vCenter=true&width=435&lines=AI+Systems+Builder;Automation+Engineer;Linux+%2B+Servers;Hardware+%2B+CAD;Unity+3D+%2B+XR" alt="Typing SVG" /></a>
 
 </div>
 
@@ -24,7 +24,7 @@ Software Engineering student at Western University focused on AI systems, automa
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasNate618&theme=dark&hide_border=true&background=0D1117&stroke=30ff7b&ring=30ff7b&fire=30ff7b&currStreakLabel=30ff7b)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasNate618&theme=dark&hide_border=true&background=0D111700&stroke=30ff7b&ring=30ff7b&fire=30ff7b&currStreakLabel=30ff7b)
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hasnate618.hasnate618&left_color=30ff7b&right_color=1a1a1a&left_text=Profile%20Views)](https://github.com/HasNate618)
 
