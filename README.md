@@ -19,32 +19,26 @@ Software Engineering student at Western University focused on AI systems, automa
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasNate618&theme=dark&hide_border=true&background=0D111700&stroke=30ff7b&ring=30ff7b&fire=30ff7b&currStreakLabel=30ff7b)
 
 
-
 ## 🛠 Skills
 
-<h3 align="center">AI & Agentic Coding</h3>
+<h3 align="center">Infrastructure</h3>
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=11&i=cursor,githubcopilot,modelcontextprotocol,openwebui,googlegemini,cohere,elevenlabs" alt="AI and agentic coding skills" />
+  <img src="https://skills.syvixor.com/api/icons?perline=11&i=linux,archlinux,debian,tailscale,docker,bash,git,github,gitlab" alt="Linux and infrastructure skills" />
 </p>
 
-<h3 align="center">Linux & Infrastructure</h3>
+<h3 align="center">Workflow</h3>
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=11&i=archlinux,linux,debian,tailscale,docker,bash,git,github,gitlab" alt="Linux and infrastructure skills" />
+  <img src="https://skills.syvixor.com/api/icons?perline=11&i=githubcopilot,opencode,cursor,openwebui,modelcontextprotocol,neovim,omarchy,ghostty,zen" alt="Workflow and editor skills" />
 </p>
 
-<h3 align="center">Workflow & Editors</h3>
-<p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=11&i=ghostty,neovim,omarchy,markdown,zen" alt="Workflow and editor skills" />
-</p>
-
-<h3 align="center">Hardware, XR & CAD</h3>
+<h3 align="center">Game Dev & Hardware</h3>
 <p align="center">
   <img src="https://skills.syvixor.com/api/icons?perline=11&i=unity,threejs,blender,arduino,esp32,platformio,raspberrypi,csharp,cpp" alt="Hardware, XR, and CAD skills" />
 </p>
 
-<h3 align="center">Software Development</h3>
+<h3 align="center">Languages & Frameworks</h3>
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=12&i=python,typescript,reactjs,javascript,java,kotlin,dotnet,csharp,css3,css,androidstudio,android" alt="Software development skills" />
+  <img src="https://skills.syvixor.com/api/icons?perline=12&i=python,java,csharp,dotnet,reactjs,typescript,javascript,kotlin,androidstudio,android" alt="Software development skills" />
 </p>
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hasnate618.hasnate618&left_color=30ff7b&right_color=1a1a1a&left_text=Profile%20Views)](https://github.com/HasNate618)
