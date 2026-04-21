@@ -13,7 +13,7 @@ Software Engineering student at Western University focused on AI systems, automa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nathan--espejo-30ff7b?style=flat&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://linkedin.com/in/nathan-espejo)
 [![Devpost](https://img.shields.io/badge/Devpost-nate--e--espejo-30ff7b?style=flat&logo=devpost&logoColor=white&labelColor=1a1a1a)](https://devpost.com/nate-e-espejo)
 
-[![Portfolio](https://img.shields.io/badge/View%20my%20Portfolio!-nathanespejo.tech-30ff7b?style=for-the-badge&labelColor=1a1a1a)](https://nathanespejo.tech)
+[![Portfolio](https://img.shields.io/badge/View%20my%20Portfolio!-nathanespejo.com-30ff7b?style=for-the-badge&labelColor=1a1a1a)](https://nathanespejo.com)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasNate618&theme=dark&hide_border=true&background=0D111700&stroke=30ff7b&ring=30ff7b&fire=30ff7b&currStreakLabel=30ff7b)
