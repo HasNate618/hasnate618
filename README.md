@@ -23,7 +23,7 @@ Software Engineering student at Western University focused on AI systems, automa
 
 <h3 align="center">Infrastructure</h3>
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=11&i=linux,archlinux,debian,tailscale,docker,bash,git,github,gitlab" alt="Linux and infrastructure skills" />
+  <img src="https://skills.syvixor.com/api/icons?perline=11&i=linux,nixos,debian,archlinux,tailscale,docker,bash,git,github,gitlab" alt="Linux and infrastructure skills" />
 </p>
 
 <h3 align="center">Workflow</h3>
@@ -38,7 +38,7 @@ Software Engineering student at Western University focused on AI systems, automa
 
 <h3 align="center">Languages & Frameworks</h3>
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=12&i=python,java,csharp,dotnet,reactjs,typescript,javascript,kotlin,androidstudio,android" alt="Software development skills" />
+  <img src="https://skills.syvixor.com/api/icons?perline=12&i=python,rust,java,csharp,dotnet,reactjs,typescript,javascript,kotlin,androidstudio,android" alt="Software development skills" />
 </p>
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hasnate618.hasnate618&left_color=30ff7b&right_color=1a1a1a&left_text=Profile%20Views)](https://github.com/HasNate618)
