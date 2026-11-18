@@ -16,8 +16,8 @@ Software Engineering student at Western University. Looking for a software engin
 
 ## Start here
 
-- **[Campus](https://github.com/HasNate618/Campus)**: a self-hosted study assistant for my courses: Brightspace sync, hybrid retrieval and an agent that logs every write.
-- **[Clank](https://github.com/HasNate618/Clank)**: a local 2B VLM that sees, hears and decides for a simulated humanoid robot inside VR game, in about 6.5 GB of VRAM.
+- **[Campus](https://github.com/HasNate618/Campus)**: the AI agent I built that reads all six of my courses: Brightspace sync into SQLite, hybrid retrieval, and an audit log on every write it makes to them.
+- **[Clank](https://github.com/HasNate618/Clank)**: a local 2B VLM that sees, hears and decides for a simulated humanoid robot inside a VR game, in about 6.5 GB of VRAM.
 - **[nixos-config-public](https://github.com/HasNate618/nixos-config-public)**: my homelab: two NixOS machines in one flake, with AI agents that change the config only after I approve.
 - **[AWARE](https://github.com/HasNate618/AWARE)**: a solo hackathon build: an Arduino UNO Q that sees, hears and follows plain-English rules, with every model on the board.
 
