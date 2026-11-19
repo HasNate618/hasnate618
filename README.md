@@ -4,7 +4,7 @@
 
 **Software engineer who builds applied AI tools and physical AI and ML experiments**
 
-Software Engineering student at Western University. Looking for a software engineering or AI internship starting May 2027, summer or up to 16 months.
+Software Engineering student at Western University. Looking for a software engineering or AI internship starting May 2027: any term from 4 to 16 months.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nathanespejo.com-30ff7b?style=for-the-badge&labelColor=1a1a1a)](https://nathanespejo.com)
 
